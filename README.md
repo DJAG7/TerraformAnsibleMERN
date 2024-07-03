@@ -1,5 +1,5 @@
-# TerraformAnsibleMERN
-Deployment of MERN on AWS with Terraform and Ansible
+# TerraformMERN
+Deployment of MERN on AWS with Terraform 
 
 
 ## Terraform Deployment of the Infrastructure
